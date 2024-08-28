@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#todoInput {
+    height: 45px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group-item button {
+    margin-left: 10px;
+}
